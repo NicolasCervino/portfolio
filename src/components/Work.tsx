@@ -12,7 +12,7 @@ function Work() {
                 {/* Proyects */}
                 <div className="grid md:grid-cols-2 gap-4">
                     {data.map((p) => (
-                        <ProyectCard name={p.name} background={p.image} links={p.links} />
+                        <ProyectCard key={p.id} name={p.name} background={p.image} links={p.links} />
                     ))}
                 </div>
             </div>
