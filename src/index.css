@@ -7,7 +7,7 @@
     body {
         @apply font-[Raleway];
         @apply text-gray-300;
-        @apply bg-[#181D31];
+        @apply bg-bg;
         /* @apply bg-gradient-to-l from-[#34016b]  to-[#00215a]; ANOTHER OPTION */
     }
     li {

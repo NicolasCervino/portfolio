@@ -45,13 +45,7 @@ function Navbar() {
             </div>
 
             {/* Mobile menu */}
-            <ul
-                className={
-                    !nav
-                        ? "hidden"
-                        : "absolute top-0 left-0 w-full h-screen bg-gradient-to-l from-[#34016b] to-[#00215a] flex flex-col justify-center items-center"
-                }
-            >
+            <ul className={!nav ? "hidden" : "absolute top-0 left-0 w-full h-screen bg-bg flex flex-col justify-center items-center"}>
                 <li className="py-6 text-4xl">
                     <Link to="home" smooth={true} onClick={handleClick}>
                         Home
