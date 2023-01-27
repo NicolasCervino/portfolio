@@ -13,9 +13,9 @@ function Home() {
                         I'm a Front-End Developer
                     </h2>
                     <p className="text-[#8892b0] py-4 max-w-[750px]">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis dolor doloremque impedit voluptatum nesciunt a
-                        repellat praesentium provident numquam dicta quibusdam quo alias accusantium laboriosam distinctio natus, illum
-                        saepe adipisci.
+                        I'm a front-end developer with a passion for creating web applications. Here, you'll find a collection of my
+                        projects, showcasing my skills and development process. I am currently seeking for my first job opportunity and I am
+                        excited to start my career in the field
                     </p>
                     <div>
                         <Link
