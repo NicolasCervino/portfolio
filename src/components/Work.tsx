@@ -4,7 +4,7 @@ import ProyectCard from "./ProyectCard";
 
 function Work() {
   return (
-    <Element name="work">
+    <Element name="work" className="py-[5%]">
       <div className="w-full md:h-screen">
         <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
           <div className="pb-8">
