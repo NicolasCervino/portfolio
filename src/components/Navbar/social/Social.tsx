@@ -2,7 +2,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import SocialIcon from "./SocialIcon";
-import Resume from "../../../assets/Resume English V2.pdf";
+import Resume from "../../../assets/Resume English V3.pdf";
 
 function Social() {
   return (
