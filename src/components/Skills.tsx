@@ -1,12 +1,11 @@
 import HTML from "../assets/html.png";
 import CSS from "../assets/css.png";
-import Javascript from "../assets/javascript.png";
+import TypeScript from "../assets/typescript.png";
 import React from "../assets/react.png";
 import Bootstrap from "../assets/bootstrap.png";
 import Tailwind from "../assets/tailwind.png";
 import Firebase from "../assets/firebase.png";
 import Git from "../assets/git.png";
-import Vue from "../assets/vue.png";
 import { Element } from "react-scroll";
 
 function Skills() {
@@ -29,16 +28,12 @@ function Skills() {
               <p className="my-3">CSS</p>
             </div>
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-              <img className="w-20 mx-auto" src={Javascript} alt="JS icon"></img>
-              <p className="my-3">Javascript</p>
+              <img className="w-20 mx-auto" src={TypeScript} alt="TypeScript icon"></img>
+              <p className="my-3">TypeScript</p>
             </div>
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
               <img className="w-20 mx-auto" src={React} alt="React icon"></img>
               <p className="my-3">React</p>
-            </div>
-            <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-              <img className="w-20 mx-auto" src={Vue} alt="Vue icon"></img>
-              <p className="my-3">Vue</p>
             </div>
             <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
               <img className="w-20 mx-auto" src={Bootstrap} alt="Bootstrap icon"></img>

@@ -2,7 +2,7 @@ import Redragon from "../assets/proyects/redragon.jpg";
 import MoviesApp from "../assets/proyects/moviesApp.jpg";
 import MoviesAppReact from "../assets/proyects/moviesAppReact.jpg";
 import EgoLifting from "../assets/proyects/ego-lifting.jpg";
-import ProTeam from "../assets/proyects/proTeam.jpg";
+import BCookies from "../assets/proyects/bcookies.jpg";
 
 export const data = [
   {
@@ -47,12 +47,12 @@ export const data = [
   },
   {
     id: 5,
-    name: "ProTeam",
-    image: ProTeam,
-    techs: "Vue.js (in progress)",
+    name: "BCookies",
+    image: BCookies,
+    techs: "React",
     links: {
-      github: "",
-      live: "https://pro-team-one.vercel.app/",
+      github: "https://github.com/NicolasCervino/BCookies",
+      live: "https://bcookies.vercel.app/",
     },
   },
 ];
